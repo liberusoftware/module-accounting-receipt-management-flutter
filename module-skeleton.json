@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-receipt-management-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-receipt-management",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_receipt_management_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/receipt-management.md",
+  "presentationPlan": "projects/accounting/flutter/receipt-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
